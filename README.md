@@ -57,7 +57,7 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for intro to the codebase
 It can be installed using `go get`.
 
 ```
- $ go get github.com/dborzov/lsp
+ $ go get github.com/dborzov/lsp@master
 ```
 
 Then make sure that your `$PATH` includes the `$GOPATH/bin` directory.
